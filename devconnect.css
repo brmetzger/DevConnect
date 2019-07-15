@@ -1,0 +1,29 @@
+div.menu {
+    border:1px solid black;
+    border-radius:25px;
+    margin:auto;
+    padding:5px;
+    width:75%;
+}
+
+h1.siteName {
+    text-align:center;
+}
+
+table.menu {
+    border-spacing: 10px;
+    width:100%;
+}
+
+td.menuButton {
+    border:1px solid black;
+    border-radius:25px;
+    margin:5px;
+    padding:5px;
+    text-align:center;
+    width:22.5%;
+}
+
+td.searchCell {
+    width:10%;
+}
