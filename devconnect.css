@@ -1,4 +1,9 @@
+body {
+    background-image: url("assets/site_background.png");
+}
+
 div.menu {
+    background-color:white;
     border:1px solid black;
     border-radius:25px;
     margin:auto;
