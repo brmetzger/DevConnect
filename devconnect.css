@@ -2,7 +2,7 @@ body {
     background-image:url("assets/site_background.png");
 }
 
-div.menu {
+div#head {
     background-color:#D0D4E6;
     border-radius:25px;
     margin:auto;

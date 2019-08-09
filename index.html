@@ -4,12 +4,12 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Developer Connect</title>
-		<meta name="description" content=" Developer Connect is a place where Roblox developers of all kinds can find and connect with each other to collaborate on games and projects. Here you can search for specific types of developers for your project such as: artists, music composers, modelers and clothing designers.">
+		<meta name="description" content="Developer Connect is a place where Roblox developers of all kinds can find and connect with each other to collaborate on games and projects. Here you can search for specific types of developers for your project such as: artists, music composers, modelers and clothing designers.">
         <meta name="author" content="gitrog">
         
         <link rel="stylesheet" type="text/css" href="devconnect.css">
 
-        <script></script>
+        <script src="js/addHead.js"></script>
         
         <style>
             img.button {
@@ -50,26 +50,9 @@
             }
         </style>
 	</head>
-	<body>
+	<body onLoad="addHead();">
         <br/><br/><br/>
-        <div class="menu">
-            <table class="menu">
-                <tr>
-                    <td class="menuButton">
-                        <img src="assets/home_button.png" alt="Home Button" class="menuButton"/>
-                    </td>
-                    <td class="menuButton">
-                        <img src="assets/find_creators_button.png" alt="Home Button" class="menuButton"/>
-                    </td>
-                    <td class="menuButton">
-                        <img src="assets/registration_button.png" alt="Home Button" class="menuButton"/>
-                    </td>
-                    <td class="searchCell">
-                        <input type="textbox" placeholder="Search the site"/>
-                    </td>
-                </tr>
-            </table>
-        </div>
+        <div id="head"></div>
 
         <table class="homePage">
             <tr>
@@ -111,7 +94,7 @@
                     <h1 class="infoHead">
                         Our Social Media:
                     </h1>
-                    <a href="https://discord.gg/YhjrDaa"><img src="assets/discord_button.png" alt="Discord Button" class="button"/></a>
+                    <a href="https://discord.gg/YhjrDaa" target="blank"><img src="assets/discord_button.png" alt="Discord Button" class="button"/></a>
                     <a href="https://twitter.com/DevConnectRBLX" target="blank"><img src="assets/twitter_button.png" alt="Twitter Button" class="button"/></a>
                 </td>
             </tr>
