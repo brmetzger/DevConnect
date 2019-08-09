@@ -10,6 +10,12 @@ div#head {
     width:50%;
 }
 
+img.menuButton {
+    display:block;
+    margin:auto;
+    width:90%;
+}
+
 table.menu {
     border-spacing:5%;
     width:100%;

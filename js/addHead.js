@@ -5,13 +5,13 @@ function addHead() {
     `<table class="menu">
         <tr>
             <td class="menuButton">
-                <img src="assets/home_button.png" alt="Home Button" class="menuButton"/>
+                <a href="index.html"><img src="assets/home_button.png" alt="Home Button" class="menuButton"/></a>
             </td>
             <td class="menuButton">
-                <img src="assets/find_creators_button.png" alt="Home Button" class="menuButton"/>
+                <a href="findCreators.html"><img src="assets/find_creators_button.png" alt="Find Creators Button" class="menuButton"/></a>
             </td>
             <td class="menuButton">
-                <img src="assets/registration_button.png" alt="Home Button" class="menuButton"/>
+                <a href="register.html"><img src="assets/registration_button.png" alt="Register Button" class="menuButton"/></a>
             </td>
             <td class="searchCell">
                 <input type="textbox" placeholder="Search the site"/>
