@@ -10,13 +10,65 @@
         <link rel="stylesheet" type="text/css" href="devconnect.css">
 
         <script src="js/addHead.js"></script>
+        <script src="js/developers.js"></script>
+        <script src="js/search.js"></script>
         
-        <style></style>
+        <style>
+            div.dev {
+                background-color:white;
+                border: 1px solid black;
+                border-radius:25px;
+                float:left;
+                margin:10px;
+                height:150px;
+                width:150px;
+            }
+            div.devHolder {
+                margin:auto;
+                margin-top:10px;
+                width:75%;
+            }
+            div.searchHead {
+                background-color:#D0D4E6;
+                border-radius:25px;
+                margin:auto;
+                margin-top:25px;
+                padding:5px;
+                width:50%;
+            }
+            h1.devHead {
+                font-size:18pt;
+                margin:auto;
+                text-align:center;
+            }
+            h2.devHead {
+                font-size:14pt;
+                margin:auto;
+                text-align:center;
+            }
+            img.devPreview {
+                display:block;
+                height:75px;
+                margin:auto;
+                width:75px;
+            }
+            p.search {
+                margin:auto;
+                text-align:center;
+                width:100%;
+            }
+        </style>
 	</head>
-	<body onLoad="addHead();">
+	<body onLoad="addHead();setup();search();">
         <br/><br/><br/>
         <div id="head"></div>
 
-        <h1>find creators page, nothing here yet</h1>
+        <div class="searchHead">
+            <p class="search">
+                Search For: &nbsp; <select id="creatorTypes"></select>&nbsp;&nbsp;&nbsp;<button onClick="search();">Search</button>
+            </p>
+        </div>
+
+        <div class="devHolder" id="devs"></div>
     </body>
 </html>
