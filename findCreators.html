@@ -14,6 +14,19 @@
         <script src="js/search.js"></script>
         
         <style>
+            .floatHead {
+                margin-bottom:5px;
+                margin-left:260px;
+            }
+            a.workExample {
+                color:dodgerblue;
+                text-decoration:none;
+                transition:0.3s;
+            }
+            a.workExample:hover {
+                color:mediumpurple;
+                transition:0.3s;
+            }
             div.dev {
                 background-color:white;
                 border: 1px solid black;
@@ -26,6 +39,12 @@
             div.devHolder {
                 margin:auto;
                 margin-top:10px;
+                width:75%;
+            }
+            div.profile {
+                background-color:white;
+                margin:auto;
+                padding:15px;
                 width:75%;
             }
             div.searchHead {
@@ -46,11 +65,35 @@
                 margin:auto;
                 text-align:center;
             }
+            h2.jobs {
+                font-size:14pt;
+                margin-left:260px;
+                margin-top:0;
+            }
+            h2.profileHead {
+                margin:auto;
+                margin-bottom:5px;
+                margin-left:10px;
+            }
             img.devPreview {
                 display:block;
                 height:75px;
                 margin:auto;
                 width:75px;
+            }
+            img.profileImage {
+                background-color:white;
+                float:left;
+                height:250px;
+                width:250px;
+            }
+            img.social-button {
+                height:50px;
+                width:50px;
+            }
+            p.profileBody {
+                margin-left:10px;
+                margin-right:25px;
             }
             p.search {
                 margin:auto;
@@ -69,6 +112,33 @@
             </p>
         </div>
 
-        <div class="devHolder" id="devs"></div>
+        <div class="devHolder" id="devs">
+            <!--<div class="profile">
+                <img src="https://www.roblox.com/bust-thumbnail/image?userId=156875176&width=420&height=420&format=png" class="profileImage"/>
+                <br/>
+                <h1 class="floatHead">gitrog</h1>
+                <h2 class="jobs">Programmer, Translator, Web Developer, UI Designer, and 3D Modeler</h1>
+                <h2 class="floatHead">About Me</h1>
+                <p class="profileBody" style="margin-left:260px;">
+                    Hi! My name is gitrog, I am a seventeen year old student in a Northeastern American vocational high school and hobbyist game developer. I can speak English and Serbian, and I've been using Roblox since 2010, and programming since 2014.
+                </p>
+                <br style="clear:left;"/><br/>
+                <h2 class="profileHead">Skills</h2>
+                <p class="profileBody">
+                    I'm primarily a programmer/scripter, and I can program in Java, JavaScript, Python, VisualBasic, and of course, Lua. However, I also do web development, this website is a great example of my work. I also do translations from English into Serbian, and if I need to, I can do 3D Modeling and UI Design, however I wouldn't consider myself a professional in either field.
+                </p>
+                <h2 class="profileHead">Work Examples</h2>
+                <p class="profileBody">
+                    <a class="workExample" href="https://www.roblox.com/games/1291467486/Downtown-Chronicles-OPEN-BETA" target="blank">Downtown Chronicles</a>&nbsp;&nbsp;
+                    <a class="workExample" href="https://www.roblox.com/games/2653361429/Bloxell-Origins-Paid-Beta" target="blank">Bloxell: Origins</a>
+                </p>
+                <h2 class="profileHead">Prices</h2>
+                <p class="profileBody">
+                    $12 per hour, flat rates can be negotiated.
+                </p>
+                <h2 class="profileHead">Contact Info</h2>
+                <img src="assets/roblox.png" class="social-button"/>
+            </div>-->
+        </div>
     </body>
 </html>
