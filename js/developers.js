@@ -3,7 +3,7 @@ const DEVELOPERS = [
         "Username":"gitrog",
         "UserId":156875176,
         "Jobs":["Programmer","Translator","Web Developer","UI Designer","3D Modeler"],
-        "Description":"Hi! My name is gitrog, I am a seventeen year old game developer. My native language is English, although I do translations for Serbian. On Roblox, I primarily do scripting and programming, but I can also do UI Design and 3D Modeling.",
+        "Description":"Hi! My name is gitrog, I am a seventeen year old game developer. My native language is English, although I do translations for Serbian. On Roblox, I primarily do scripting and programming, but I can also do UI Design and 3D Modeling. Prices are negotiable, but USD only please.",
         "Contacts":[["DISCORD",189714941228482560],["TWITTER","realgitrog"]]
     },
     {
