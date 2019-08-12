@@ -5,7 +5,9 @@ const CREATOR_TYPES = [
     "Composer",
     "GFX Artist",
     "Programmer",
+    "Texture Artist",
     "Translator",
+    "UI Designer",
     "Web Developer"
 ];
 
