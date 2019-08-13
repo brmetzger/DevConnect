@@ -11,7 +11,7 @@ function addHead() {
                 <a href="findCreators.html"><img src="assets/find_creators_button.png" alt="Find Creators Button" class="menuButton"/></a>
             </td>
             <td class="menuButton">
-                <a href="register.html"><img src="https://forms.gle/b67bHfXJ8c2d8aFy8" alt="Register Button" class="menuButton"/></a>
+                <a href="https://forms.gle/b67bHfXJ8c2d8aFy8"><img src="assets/registration_button.png" alt="Register Button" class="menuButton"/></a>
             </td>
             <td class="searchCell">
                 <input type="textbox" placeholder="Search the site"/>
