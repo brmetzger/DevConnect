@@ -31,21 +31,30 @@
                 background-color:white;
                 border: 1px solid black;
                 border-radius:25px;
+                cursor:pointer;
                 float:left;
                 margin:10px;
                 height:150px;
                 width:150px;
             }
             div.devHolder {
+                background:url("assets/creator_search_box_top.png"),url("assets/creator_search_box_middle.png");
+                background-position: right top, left bottom;
+                background-repeat: no-repeat, repeat;
+                background-size:100%;
+                border-radius:25px;
                 margin:auto;
                 margin-top:10px;
-                width:75%;
+                padding-left:40px;
+                padding-top:40px;
+                padding-right:40px;
+                width:50%;
             }
             div.profile {
                 background-color:white;
                 margin:auto;
                 padding:15px;
-                width:75%;
+                width:90%;
             }
             div.searchHead {
                 background-color:#D0D4E6;
@@ -88,6 +97,7 @@
                 width:250px;
             }
             img.social-button {
+                cursor:pointer;
                 height:50px;
                 width:50px;
             }
@@ -112,33 +122,6 @@
             </p>
         </div>
 
-        <div class="devHolder" id="devs">
-            <!--<div class="profile">
-                <img src="https://www.roblox.com/bust-thumbnail/image?userId=156875176&width=420&height=420&format=png" class="profileImage"/>
-                <br/>
-                <h1 class="floatHead">gitrog</h1>
-                <h2 class="jobs">Programmer, Translator, Web Developer, UI Designer, and 3D Modeler</h1>
-                <h2 class="floatHead">About Me</h1>
-                <p class="profileBody" style="margin-left:260px;">
-                    Hi! My name is gitrog, I am a seventeen year old student in a Northeastern American vocational high school and hobbyist game developer. I can speak English and Serbian, and I've been using Roblox since 2010, and programming since 2014.
-                </p>
-                <br style="clear:left;"/><br/>
-                <h2 class="profileHead">Skills</h2>
-                <p class="profileBody">
-                    I'm primarily a programmer/scripter, and I can program in Java, JavaScript, Python, VisualBasic, and of course, Lua. However, I also do web development, this website is a great example of my work. I also do translations from English into Serbian, and if I need to, I can do 3D Modeling and UI Design, however I wouldn't consider myself a professional in either field.
-                </p>
-                <h2 class="profileHead">Work Examples</h2>
-                <p class="profileBody">
-                    <a class="workExample" href="https://www.roblox.com/games/1291467486/Downtown-Chronicles-OPEN-BETA" target="blank">Downtown Chronicles</a>&nbsp;&nbsp;
-                    <a class="workExample" href="https://www.roblox.com/games/2653361429/Bloxell-Origins-Paid-Beta" target="blank">Bloxell: Origins</a>
-                </p>
-                <h2 class="profileHead">Prices</h2>
-                <p class="profileBody">
-                    $12 per hour, flat rates can be negotiated.
-                </p>
-                <h2 class="profileHead">Contact Info</h2>
-                <img src="assets/roblox.png" class="social-button"/>
-            </div>-->
-        </div>
+        <div class="devHolder" id="devs"></div>
     </body>
 </html>
