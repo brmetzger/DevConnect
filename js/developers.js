@@ -124,7 +124,7 @@ const DEVELOPERS = [
         "UserId":126639677,
         "Jobs":["3D Modeler","Terrain Modeler"],
         "Description":`Excited for every project.`,
-        "Skills":`errain is something I'm really confident in, as for modeling I'm able to do most basic models but also some more advanced stuff.`,
+        "Skills":`Terrain is something I'm really confident in, as for modeling I'm able to do most basic models but also some more advanced stuff.`,
         "Examples":[],
         "Rate":"Completely depends on the project but usually pretty low",
         "Contacts":{"DISCORD":279991236029317121}
