@@ -148,5 +148,6 @@ function search() {
 
 //Sort by a category
 function sortBy(sortCat) {
+    console.log("Restricted search to",sortCat);
     category = sortCat;
 };
