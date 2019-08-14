@@ -60,6 +60,19 @@ const DEVELOPERS = [
         "Contacts":{}
     },
     {
+        "Username":"Axcerious",
+        "UserId":125060651,
+        "Jobs":["3D Modeler","Builder","Texture Artist"],
+        "Description":`I'm a very active developer on the Roblox platform.`,
+        "Skills":`(See above)`,
+        "Examples":[
+            {"Name":"Zombie Havoc","Link":"https://www.roblox.com/games/3107817956/Zombie-Havoc-ALPHA"},
+            {"Name":"Free Falling Simulator","Link":"https://www.roblox.com/games/2890308618/NEW-Free-Falling-Simulator"},
+        ],
+        "Rate":"Anything above 50k Robux",
+        "Contacts":{"DISCORD":"433771826120884227"}
+    },
+    {
         "Username":"CorrivalRhyme",
         "UserId":19234209,
         "Jobs":["Builder"],
