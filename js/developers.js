@@ -150,6 +150,18 @@ const DEVELOPERS = [
         ],
         "Rate":"-300R$ - Icon -600R$ - Fullbody For more rates on other things such as logos, advertisements, UI, textures ect. DM me. ",
         "Contacts":{"DISCORD":587642741253734410}
+    },
+    {
+        "Username":"Norbunny",
+        "UserId":76860346,
+        "Jobs":["Builder","Programmer","Translator","Web Developer"],
+        "Description":`A friendly person who easily makes friends, very supporting towards others. Hard working. I love learning languages and learning in general, hence why I'm probably such a fast learner.`,
+        "Skills":`Hard working, fast learner, able to multi task and work under stress. Motivated to follow dreams. I barely never give up, I may take a break but always get back up.`,
+        "Examples":[
+            {"Name":"Restaurant 2","Link":"https://www.roblox.com/games/3072875835/Restaurant-2"}
+        ],
+        "Rate":"I'm not very good with pricing, varies a lot, I kind of prefer getting a bit underpaid to ask an amount to the customer, and make them not able to afford, or simply being too much.",
+        "Contacts":{"DISCORD":223470996101922817,"TWITTER":"Norby (Norbunny)"}
     }
 ];
 
