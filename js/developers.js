@@ -48,6 +48,16 @@ const DEVELOPERS = [
         ],
         "Rate":"Rates vary by project",
         "Contacts":{"DISCORD":"196390297905659905"}
+    },
+    {
+        "Username":"TonedOut",
+        "UserId":68842832,
+        "Jobs":["Web Developer","UI Designer","Programmer","Builder"],
+        "Description":`Outgoing towards many.`,
+        "Skills":`Multiple understandings of programming and also being a team leader within projects.`,
+        "Examples":[],
+        "Rate":"1K/$7",
+        "Contacts":{}
     }
 ];
 
