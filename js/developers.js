@@ -69,7 +69,7 @@ const DEVELOPERS = [
           
         ],
         "Rate":"R$50k/$175",
-        "Contacts":{"DISCORD":"244320854350102528",}
+        "Contacts":{"DISCORD":"244320854350102528"}
     }
 ];
 
