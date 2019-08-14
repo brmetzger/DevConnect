@@ -128,6 +128,16 @@ const DEVELOPERS = [
         "Examples":[],
         "Rate":"Completely depends on the project but usually pretty low",
         "Contacts":{"DISCORD":279991236029317121}
+    },
+     {
+        "Username":"4sys",
+        "UserId":722758829,
+        "Jobs":["3D Modeler","Web Developer"],
+        "Description":`I’d describe myself as, I wouldn’t say hard working, I think I could say I don’t like giving up easily. I’m ambitious and all together a pretty unique person to talk to. `,
+        "Skills":`I 3D model for the fun of it and I’ve a website developer. I do quite a bit of programming in my spare time, along with HTML & css. `,
+        "Examples":["contact for examples"],
+        "Rate":"Eh, if it’s for the community & I know it’ll be worth it in terms of programming, usually I do it for free out of kindness. 3D modelling, it all depends on what it is. ",
+        "Contacts":{"DISCORD":146336988595748864}
     }
 ];
 
