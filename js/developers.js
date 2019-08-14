@@ -36,6 +36,18 @@ const DEVELOPERS = [
         ],
         "Rate":"Negotiable pricing based on the amount of UI and what stlye you would like.",
         "Contacts":{"TWITTER":"Bylocks52"}
+    },
+     {
+        "Username":"WatcherCobalt",
+        "UserId":10354805,
+        "Jobs":["Builder"],
+        "Description":`Cat person. Major cat person.`,
+        "Skills":`Building, subject matter knowledge in scifi, military and firearms.`,
+        "Examples":[
+            
+        ],
+        "Rate":"Rates vary by project",
+        "Contacts":{"DISCORD":"196390297905659905"}
     }
 ];
 
