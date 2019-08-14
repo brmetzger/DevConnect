@@ -24,6 +24,18 @@ const DEVELOPERS = [
         ],
         "Rate":"Hi I'm posatta, I haven't decided on a rate yet.",
         "Contacts":{"DISCORD":211933202237882368,"TWITTER":"posatta1"}
+    },
+    {
+        "Username":"Bylocks",
+        "UserId":25208195,
+        "Jobs":["UI Designer"],
+        "Description":`I'm a simple easy to work with Ui desinger, giving you the top quality UI you want!`,
+        "Skills":`I can create almost any kind of UI you are look for!`,
+        "Examples":[
+            {"Name":"DevForums Portfolio","Link":"https://devforum.roblox.com/t/open-bylocks-ui-designer/155625"}
+        ],
+        "Rate":"Negotiable pricing based on the amount of UI and what stlye you would like.",
+        "Contacts":{"TWITTER":"Bylocks52"}
     }
 ];
 
