@@ -103,18 +103,20 @@ function setup() {
     let creatorList = document.getElementById("creatorTypes");
     for (let i in CREATOR_TYPES) {
         creatorList.innerHTML += `
-        <option value="${CREATOR_TYPES[i].toLowerCase()}" onClick="sortBy('${CREATOR_TYPES[i]}')">
+        <option value="${CREATOR_TYPES[i]}">
             ${CREATOR_TYPES[i]}
         </option>`;
     };
 };
 
 //Search for developers
-let category;
 function search() {
     //Reset the page
     let devList = document.getElementById("devs");
     devList.innerHTML = "";
+
+    let creatorList = document.getElementById("creatorTypes");
+    let category = creatorList.value;
 
     function addDev(devInfo,i) {
         devList.innerHTML += `
@@ -144,10 +146,4 @@ function search() {
         };
     };
     devList.innerHTML += "<br style='clear:left'/>";
-};
-
-//Sort by a category
-function sortBy(sortCat) {
-    console.log("Restricted search to",sortCat);
-    category = sortCat;
 };
