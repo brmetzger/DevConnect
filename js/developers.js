@@ -81,6 +81,31 @@ const DEVELOPERS = [
         ],
         "Rate":"Anything above 50k Robux",
         "Contacts":{"DISCORD":"433771826120884227"}
+    },
+    {
+        "Username":"Saber_Art",
+        "UserId":131522184,
+        "Jobs":["3D Modeler","Programmer","Web Developer"],
+        "Description":``,
+        "Skills":`Programming, 3d Modeling`,
+        "Examples":[
+            {"Name":"Monster Wings","Link":"https://cdn.discordapp.com/attachments/459848329573040139/608130744858050592/unknown-85.png"},
+            {"Name":"Animations+Dialogue","Link":"https://gyazo.com/925cd45504a0758454289e7fa889ceaa"},
+            {"Name":"Transformation","Link":"https://gyazo.com/13494a9c409bf9c8b2167bc2e0e21933"},
+            {"Name":"Death the Kid Outfit","Link":"https://cdn.discordapp.com/attachments/382422742378610688/606757479874822144/unknown.png"},
+             {"Name":"Adventure Outfit","Link":"https://cdn.discordapp.com/attachments/382422742378610688/604528564691271710/IMG_20190726_201146_149.jpg"},
+             {"Name":"Short Sword","Link":"https://cdn.discordapp.com/attachments/382422742378610688/602560765248929792/unknown-80.png"},
+             {"Name":"Black and Gold Sword","Link":"https://cdn.discordapp.com/attachments/382422742378610688/599677448535408692/unknown.png"},
+             {"Name":"Purple Katana","Link":"https://cdn.discordapp.com/attachments/382422742378610688/596475551334662145/unknown.png"},
+            {"Name":"Black Broadsword","Link":"https://cdn.discordapp.com/attachments/382422742378610688/592801009881841675/unknown.png"},
+            {"Name":"Red Longsword","Link":"https://cdn.discordapp.com/attachments/382422742378610688/581950632576024579/unknown.png"},
+            {"Name":"Teal Colored Outfit","Link":"https://cdn.discordapp.com/attachments/382422742378610688/606757479874822144/unknown.png"},
+             {"Name":"Basic Broadsword","Link":"https://cdn.discordapp.com/attachments/382422742378610688/579066259614728192/IMG_20190517_115144_156.jpg"},
+             {"Name":"Sword Mesh","Link":"https://cdn.discordapp.com/attachments/382422742378610688/578445565046816768/unknown.png"},
+             {"Name":"Grey and Teal Outfit","Link":"https://cdn.discordapp.com/attachments/382422742378610688/547249057735901225/unknown.png"},
+        ],
+        "Rate":"Rates depend on the details of the job",
+        "Contacts":{"DISCORD":174482295154147328}
     }
 ];
 
