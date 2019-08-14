@@ -58,6 +58,18 @@ const DEVELOPERS = [
         "Examples":[],
         "Rate":"1K/$7",
         "Contacts":{}
+    },
+    {
+        "Username":"CorrivalRhyme",
+        "UserId":19234209,
+        "Jobs":["Builder"],
+        "Description":`A true robloxian, since 2011. My dream job is an architect, and have practiced it within roblox to get a feel for it, and that is where I got the interest in developing.`,
+        "Skills":`Some building, terraining, 2d graphics`,
+        "Examples":[
+          
+        ],
+        "Rate":"R$50k/$175",
+        "Contacts":{"DISCORD":"244320854350102528",}
     }
 ];
 
