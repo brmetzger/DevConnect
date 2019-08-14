@@ -106,6 +106,18 @@ const DEVELOPERS = [
         ],
         "Rate":"Rates depend on the details of the job",
         "Contacts":{"DISCORD":174482295154147328}
+    },
+     {
+        "Username":"umadman124",
+        "UserId":45391694,
+        "Jobs":["Artist"],
+        "Description":`An artist who does his best`,
+        "Skills":`A basic understanding of anatomy and I'm very creative when it comes to character design`,
+        "Examples":[
+            {"Name":"Deviantart Portfolio","Link":"https://deviantart.com/risingtoaster"}
+        ],
+        "Rate":"4$ via Patreon/450R$",
+        "Contacts":{"DISCORD":571523517300867093}
     }
 ];
 
