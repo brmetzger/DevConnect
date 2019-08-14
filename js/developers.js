@@ -60,6 +60,16 @@ const DEVELOPERS = [
         "Contacts":{}
     },
     {
+        "Username":"CorrivalRhyme",
+        "UserId":19234209,
+        "Jobs":["Builder"],
+        "Description":`A true robloxian, since 2011. My dream job is an architect, and have practiced it within roblox to get a feel for it, and that is where I got the interest in developing.`,
+        "Skills":`Some building, terraining, 2d graphics`,
+        "Examples":[],
+        "Rate":"R$50k/$175",
+        "Contacts":{"DISCORD":"244320854350102528"}
+    },
+     {
         "Username":"Axcerious",
         "UserId":125060651,
         "Jobs":["3D Modeler","Builder","Texture Artist"],
@@ -71,16 +81,6 @@ const DEVELOPERS = [
         ],
         "Rate":"Anything above 50k Robux",
         "Contacts":{"DISCORD":"433771826120884227"}
-    },
-    {
-        "Username":"CorrivalRhyme",
-        "UserId":19234209,
-        "Jobs":["Builder"],
-        "Description":`A true robloxian, since 2011. My dream job is an architect, and have practiced it within roblox to get a feel for it, and that is where I got the interest in developing.`,
-        "Skills":`Some building, terraining, 2d graphics`,
-        "Examples":[],
-        "Rate":"R$50k/$175",
-        "Contacts":{"DISCORD":"244320854350102528"}
     }
 ];
 
