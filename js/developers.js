@@ -138,6 +138,18 @@ const DEVELOPERS = [
         "Examples":["contact for examples"],
         "Rate":"Eh, if it’s for the community & I know it’ll be worth it in terms of programming, usually I do it for free out of kindness. 3D modelling, it all depends on what it is. ",
         "Contacts":{"DISCORD":146336988595748864}
+    },
+    {
+        "Username":"MoonBerrii",
+        "UserId":1113868881,
+        "Jobs":["Animator","Texture Artist","Artist","UI Designer"],
+        "Description":`’m a self taught artist doing digital art for about 5 years now. Please refer to me using they/them pronouns! ヽ(´▽｀)/`,
+        "Skills":`I’m able to create icons, logos, advertisements ect. I’m new to the world of texturing and UI Design. I’m also experienced in 2d animation & tweening.`,
+        "Examples":[
+            {"Name":"Twitter Sample Portfolio","Link":"https://twitter.com/moonberriirblx/status/1146527873274134529?s=21"}
+        ],
+        "Rate":"-300R$ - Icon -600R$ - Fullbody For more rates on other things such as logos, advertisements, UI, textures ect. DM me. ",
+        "Contacts":{"DISCORD":587642741253734410}
     }
 ];
 
