@@ -86,8 +86,8 @@ const DEVELOPERS = [
         "Username":"Saber_Art",
         "UserId":131522184,
         "Jobs":["3D Modeler","Programmer","Web Developer"],
-        "Description":``,
-        "Skills":`Programming, 3d Modeling`,
+        "Description":`(none)`,
+        "Skills":`Programming,3d Modeling`,
         "Examples":[
             {"Name":"Monster Wings","Link":"https://cdn.discordapp.com/attachments/459848329573040139/608130744858050592/unknown-85.png"},
             {"Name":"Animations+Dialogue","Link":"https://gyazo.com/925cd45504a0758454289e7fa889ceaa"},
