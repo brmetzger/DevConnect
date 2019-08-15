@@ -161,7 +161,19 @@ const DEVELOPERS = [
             {"Name":"Restaurant 2","Link":"https://www.roblox.com/games/3072875835/Restaurant-2"}
         ],
         "Rate":"I'm not very good with pricing, varies a lot, I kind of prefer getting a bit underpaid to ask an amount to the customer, and make them not able to afford, or simply being too much.",
-        "Contacts":{"DISCORD":223470996101922817,"TWITTER":"Norby (Norbunny)"}
+        "Contacts":{"DISCORD":223470996101922817,"TWITTER":"DeveloperNorby"}
+    },
+    {
+        "Username":"Phalack",
+        "UserId":7019178,
+        "Jobs":["Composer","Translator"],
+        "Description":`An overall average human being, I work thoroughly on music I make whenever I have time between my two jobs and school. `,
+        "Skills":`I can write basic soundtracks relatively quickly, depending on the complexity and the style.`,
+        "Examples":[
+            {"Name":"Soundcloud Profile","Link":"https://soundcloud.com/user-972556760"}
+        ],
+        "Rate":"They are not linear. I discuss the rates with my customers when I get commissioned. They're rarely expensive, and trust me, they're really far away from the $250/soundtrack some other composers might charge.",
+        "Contacts":{"DISCORD":173289220696309771,"TWITTER":"PhalackMusic"}
     }
 ];
 
