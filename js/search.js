@@ -1,5 +1,6 @@
 const CREATOR_TYPES = [
     "",
+    "Artist",
     "3D Modeler",
     "Builder",
     "Composer",
